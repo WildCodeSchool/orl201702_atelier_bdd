@@ -1,0 +1,4 @@
+got:
+    resource: "@GotBundle/Controller/"
+    type:     annotation
+    prefix:   /
